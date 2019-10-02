@@ -1,0 +1,7 @@
+Author  : Zachary Gerstner <zigerst@g.clemson.edu>
+Created : 2 October 2019
+Updated : 2 October 2019
+===================================================
+
+Gene List Curation
+Terms used to query OMIM : "Mood disorder", "social withdrawal" 
